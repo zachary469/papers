@@ -25,3 +25,8 @@ One broken steam engine.
 # Conclusions
 
 It's not worth trying to build a time machine.
+
+# Figures
+
+Insert photo of whiteboard diagram here.
+
