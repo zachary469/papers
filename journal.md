@@ -7,6 +7,10 @@ This is the second Author
 
 This is the new Title with small changes after merging
 
+# Abstract
+
+I think it's very abstract.
+
 # Introduction
 
 The file extension .md stands for markdown.
