@@ -6,4 +6,7 @@ This is the Author
 
 This is the Title
 
-md stands for markdown
+# Introduction
+
+The file extension .md stands for markdown.
+No clue what that means.
