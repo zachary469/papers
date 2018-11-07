@@ -16,6 +16,12 @@ No clue what that means, but we know E. Brown built a time machine [1] in 1985 a
 
 Simulations are grossly overrated when you have a working time machine, according to E. Brown.
 
+# Results
+
+One broken clocktower.
+One broken tombstone.
+One broken steam engine.
+
 # Conclusions
 
 It's not worth trying to build a time machine.
