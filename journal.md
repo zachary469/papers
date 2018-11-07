@@ -16,3 +16,12 @@ No clue what that means, but we know E. Brown built a time machine [1] in 1985 a
 
 Simulations are grossly overrated when you have a working time machine, according to E. Brown.
 They are even more overrated according to B. Tennant, but no one listens to that guy.
+
+# Methodology
+
+Build flux capacitor.
+Buy DeLorean.
+Acquire REDACTED from REDACTED.
+Assemble time machine.
+Profit. [4]
+
