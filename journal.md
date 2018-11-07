@@ -30,3 +30,7 @@ It's not worth trying to build a time machine.
 
 Insert photo of whiteboard diagram here.
 
+# Acknowledgments
+
+We'd like to tank the 2015 weather forecast for its precision. Oh, wait. D'oh.
+
