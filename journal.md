@@ -1,10 +1,11 @@
 # Author
 
 This is the Author
+This is the second Author
 
 # Title
 
-This is the Title
+This is the new Title
 
 # Introduction
 
